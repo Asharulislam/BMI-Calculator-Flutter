@@ -1,2 +1,3 @@
 # BMI-Calculator-Flutter
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]()
+<img src="/Asharulislam/BMI-Calculator-Flutter/blob/master/bmi-calc-demo.gif?raw=true" alt="bmi-calc-demo.gif">
